@@ -13,8 +13,3 @@ Testing different NLP models in predict trends when investing in stocks based on
         LSTM Model --> (https://colab.research.google.com/drive/1RTAGhzzfnmR9fmPxzWxAuW30Mv2wb2p8?usp=sharing)
         
         Bert Model --> (https://colab.research.google.com/drive/1NNPDTlYh41priZahuuTtt4olUkHprnPy?usp=sharing)
-
-Political polarization surrounding broadband policies arises from differing views on the government's role in promoting equitable connectivity and fostering innovation. Understanding the sentiment surrounding broadband infrastructure and its connection to political ideology can offer valuable insights for
-addressing the digital divide and implementing effective policies to ensure broadband equality. Utilizing the Textblob NLP tool, sentiment and polarity scores of each tweet were quantified to discern the prevailing attitudes and emotions expressed by users. (Data set was retrieved from previous research project)
-
-        Textblob --> (https://drive.google.com/file/d/1_BLsGgc4sHThfpnqEo0YEYNANT9KYklh/view?usp=sharing)
